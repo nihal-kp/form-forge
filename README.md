@@ -1,6 +1,6 @@
-# Client Sphere
+# Form Forge
 
-Client Sphere is a scalable and maintainable Laravel-based application designed for efficient client management. It features a role-based system where an Admin can manage Clients, assign custom values, and perform CRUD operations, while Clients can register, manage their profile, and view assigned values
+Form Forge is a Laravel-based application that empowers administrators to build and manage fully dynamic forms through a user-friendly dashboard. Admins can create, customize, and control form fields directly from a dashboard — no coding required. Each form created is publicly accessible and can collect user submissions.
 
 ## Installation Instructions
 
@@ -9,13 +9,13 @@ Follow these steps to set up the project on your local machine:
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/nihal-kp/client-sphere.git
+git clone https://github.com/nihal-kp/form-forge.git
 ```
 
 2. **Navigate into the project directory**
 
 ```bash
-cd client-sphere
+cd form-forge
 ```
 
 3. **Install dependencies**
